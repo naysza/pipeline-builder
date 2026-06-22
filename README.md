@@ -1,4 +1,4 @@
-# VectorShift Pipeline Builder
+# AI Pipeline Builder
 
 A no-code AI pipeline builder where you can drag, drop and connect nodes to build AI workflows.
 
